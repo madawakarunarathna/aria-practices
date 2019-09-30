@@ -275,10 +275,7 @@ ariaTest('Test tabindex="-1" for all submenu role="menuitem"s',
   });
 
 
-<<<<<<< HEAD
 /*
-=======
->>>>>>> 81bbf9ef82ce50723a12fe2fc7fc836178113036
 ariaTest.failing('Test aria-disabled="false" for all submenu role="menuitem"s',
   exampleFile, 'submenu-menuitem-aria-disabled', async (t) => {
     t.plan(3);
